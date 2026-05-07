@@ -30,6 +30,10 @@ Build for production:
 npm run build
 ```
 
+## Deploy to Cloudflare Pages
+
+See [docs/deploy-cloudflare-pages.zh.md](docs/deploy-cloudflare-pages.zh.md)（简体中文）.
+
 ## Online Documentation
 
 - https://dujiao-next.com
